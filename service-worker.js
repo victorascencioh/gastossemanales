@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gastosemanal/precache-manifest.6e6e16a87e806169a13d3d9d5718c6d2.js"
+  "/gastossemanales/precache-manifest.aced23338ed53b41b558a3ca787d9a21.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/gastosemanal/index.html", {
+workbox.routing.registerNavigationRoute("/gastossemanales/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/gastosemanal/static/css/main.51b348f9.chunk.css",
-  "main.js": "/gastosemanal/static/js/main.d0011a27.chunk.js",
-  "main.js.map": "/gastosemanal/static/js/main.d0011a27.chunk.js.map",
-  "static/js/1.6ee94f98.chunk.js": "/gastosemanal/static/js/1.6ee94f98.chunk.js",
-  "static/js/1.6ee94f98.chunk.js.map": "/gastosemanal/static/js/1.6ee94f98.chunk.js.map",
-  "runtime~main.js": "/gastosemanal/static/js/runtime~main.fed8fd42.js",
-  "runtime~main.js.map": "/gastosemanal/static/js/runtime~main.fed8fd42.js.map",
-  "static/css/main.51b348f9.chunk.css.map": "/gastosemanal/static/css/main.51b348f9.chunk.css.map",
-  "index.html": "/gastosemanal/index.html",
-  "precache-manifest.6e6e16a87e806169a13d3d9d5718c6d2.js": "/gastosemanal/precache-manifest.6e6e16a87e806169a13d3d9d5718c6d2.js",
-  "service-worker.js": "/gastosemanal/service-worker.js"
+  "main.css": "/gastossemanales/static/css/main.51b348f9.chunk.css",
+  "main.js": "/gastossemanales/static/js/main.11a18010.chunk.js",
+  "main.js.map": "/gastossemanales/static/js/main.11a18010.chunk.js.map",
+  "static/js/1.6ee94f98.chunk.js": "/gastossemanales/static/js/1.6ee94f98.chunk.js",
+  "static/js/1.6ee94f98.chunk.js.map": "/gastossemanales/static/js/1.6ee94f98.chunk.js.map",
+  "runtime~main.js": "/gastossemanales/static/js/runtime~main.048fc747.js",
+  "runtime~main.js.map": "/gastossemanales/static/js/runtime~main.048fc747.js.map",
+  "static/css/main.51b348f9.chunk.css.map": "/gastossemanales/static/css/main.51b348f9.chunk.css.map",
+  "index.html": "/gastossemanales/index.html",
+  "precache-manifest.aced23338ed53b41b558a3ca787d9a21.js": "/gastossemanales/precache-manifest.aced23338ed53b41b558a3ca787d9a21.js",
+  "service-worker.js": "/gastossemanales/service-worker.js"
 }
