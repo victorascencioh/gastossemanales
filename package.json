@@ -1,4 +1,5 @@
 {
+  "homepage": "http://victorascencioh.github.io/gastossemanales",
   "name": "gastosemanal",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +9,8 @@
     "react-scripts": "2.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -21,5 +24,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "prop-types": "^15.6.2"
+  }
 }
